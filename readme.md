@@ -1,9 +1,11 @@
 ### Yet another nodejs wrapper for Terminal-notifier.app
 
+####Installation
 ```
 npm install terminal-notifier-plus
 ```
 
+####Usage
 ```js
 
 var notifier = require('terminal-notifier-plus');
