@@ -1,0 +1,23 @@
+{
+  "name": "terminal-notifier-plus",
+  "version": "1.0.0",
+  "description": "Send OSX Terminal Notifications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbspk/terminal-notifier-plus"
+  },
+  "keywords": [
+    "terminal",
+    "notifier",
+    "notifications",
+    "osx",
+    "osx-notificationa"
+  ],
+  "author": "Subash Pathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbspk/terminal-notifier-plus/issues"
+  },
+  "homepage": "https://github.com/sbspk/terminal-notifier-plus"
+}
