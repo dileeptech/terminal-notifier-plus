@@ -6,7 +6,7 @@ npm install terminal-notifier-plus
 
 ```js
 
-var notifier = require('terminal-notifier-plus);
+var notifier = require('terminal-notifier-plus');
 
 notifier.notify(options, callback);
 
